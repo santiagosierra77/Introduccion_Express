@@ -7,5 +7,5 @@ app.get("/", (_, res) => {
 });
 
 app.listen(port, () => {
-    console.log( `Servidor en funcionamiento en el puerto: `); 
+    console.log( `Servidor en funcionamiento en el puerto: 3000`); 
 }); 
